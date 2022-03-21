@@ -1,0 +1,5 @@
+xlwings
+zeep
+requests
+numpy
+pandas
